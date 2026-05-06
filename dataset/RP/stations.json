@@ -2,9 +2,7 @@
   "stations": [
     {
       "id": "MNL_CTR",
-      "controlled_by": [
-        "MNL_CTR"
-      ]
+      "controlled_by": ["MNL_CTR"]
     },
     {
       "id": "MNL_N_CTR",
