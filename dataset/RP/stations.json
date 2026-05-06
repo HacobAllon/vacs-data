@@ -280,7 +280,7 @@
     },
     {
       "id": "RPLB_TWR",
-      "parent_id": "RPLB_APP",
+      "parent_id": "RPLC_APP",
       "controlled_by": [
         "RPLB_TWR"
       ]
