@@ -145,6 +145,105 @@
       "profile_id": "RPHI"
     },
     {
+      "id": "VHHK_U_CTR",
+      "prefixes": [
+        "HKG"
+      ],
+      "frequency": "132.525",
+      "facility_type": "CTR",
+      "profile_id": "VHHK",
+      "default_call_sources": [
+        "VHHK_U_CTR"
+      ]
+    },
+    {
+      "id": "VHHK_S_CTR",
+      "prefixes": [
+        "HKG"
+      ],
+      "frequency": "132.150",
+      "facility_type": "CTR",
+      "profile_id": "VHHK",
+      "default_call_sources": [
+        "VHHK_S_CTR"
+      ]
+    },
+    {
+      "id": "VHHK_W_CTR",
+      "prefixes": [
+        "HKG"
+      ],
+      "frequency": "127.100",
+      "facility_type": "CTR",
+      "profile_id": "VHHK",
+      "default_call_sources": [
+        "VHHK_W_CTR"
+      ]
+    },
+    {
+      "id": "VHHK_C_CTR",
+      "prefixes": [
+        "HKG"
+      ],
+      "frequency": "128.750",
+      "facility_type": "CTR",
+      "profile_id": "VHHK",
+      "default_call_sources": [
+        "VHHK_C_CTR"
+      ]
+    },
+    {
+      "id": "VHHK_D_CTR",
+      "prefixes": [
+        "HKG"
+      ],
+      "frequency": "122.950",
+      "facility_type": "CTR",
+      "profile_id": "VHHK",
+      "default_call_sources": [
+        "VHHK_D_CTR"
+      ]
+    },
+    {
+      "id": "VHHK_V_CTR",
+      "prefixes": [
+        "HKG"
+      ],
+      "frequency": "125.325",
+      "facility_type": "CTR",
+      "profile_id": "VHHK",
+      "default_call_sources": [
+        "VHHK_V_CTR"
+      ]
+    },
+    {
+      "id": "WSJC_5_CTR",
+      "prefixes": [
+        "WSJC"
+      ],
+      "frequency": "133.600",
+      "facility_type": "CTR",
+      "profile_id": "WSJC"
+    },
+    {
+      "id": "WSJC_8_CTR",
+      "prefixes": [
+        "WSJC"
+      ],
+      "frequency": "134.350",
+      "facility_type": "CTR",
+      "profile_id": "WSJC"
+    },
+    {
+      "id": "WSJC_CTR",
+      "prefixes": [
+        "WSJC"
+      ],
+      "frequency": "123.700",
+      "facility_type": "CTR",
+      "profile_id": "WSJC"
+    },
+    {
       "id": "MNL_FMP",
       "prefixes": [
         "MNL"
