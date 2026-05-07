@@ -107,25 +107,9 @@
           {
             "label": [
               "MNL",
-              "2 CTR"
+              "C CTR"
             ],
-            "station_id": "MNL_2_CTR"
-          },
-          {
-            "label": [
-              ""
-            ]
-          },
-          {
-            "label": [
-              ""
-            ]
-          },
-          {
-            "label": [
-              ""
-            ],
-            "station_id": ""
+            "station_id": "MNL_C_CTR"
           },
           {
             "label": [
@@ -133,6 +117,20 @@
               "N CTR"
             ],
             "station_id": "MNL_N_CTR"
+          },
+          {
+            "label": [
+              "MNL",
+              "S CTR"
+            ],
+            "station_id": "MNL_S_CTR"
+          },          
+          {
+            "label": [
+              "MNL",
+              "2 CTR"
+            ],
+            "station_id": "MNL_2_CTR"
           },
           {
             "label": [
@@ -154,18 +152,6 @@
               "N1 CTR"
             ],
             "station_id": "MNL_N1_CTR"
-          },
-          {
-            "label": [
-              ""
-            ]
-          },
-          {
-            "label": [
-              "MNL",
-              "C CTR"
-            ],
-            "station_id": "MNL_C_CTR"
           },
           {
             "label": [
@@ -198,13 +184,6 @@
           {
             "label": [
               "MNL",
-              "S CTR"
-            ],
-            "station_id": "MNL_S_CTR"
-          },
-          {
-            "label": [
-              "MNL",
               "SE CTR"
             ],
             "station_id": "MNL_SE_CTR"
@@ -229,6 +208,21 @@
               "CS CTR"
             ],
             "station_id": "MNL_CS_CTR"
+          },          
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
           }
         ]
       }
@@ -666,76 +660,49 @@
         "ACC"
       ],
       "page": {
-        "rows": 5,
+        "rows": 3,
         "keys": [
           {
             "label": [
               "HKG",
               "U CTR"
             ],
-            "station_id": "HKG_U_CTR"
+            "station_id": "VHHK_U_CTR"
           },
           {
             "label": [
               "HKG",
               "S CTR"
             ],
-            "station_id": "HKG_S_CTR"
+            "station_id": "VHHK_S_CTR"
           },
           {
             "label": [
               "HKG",
               "W CTR"
             ],
-            "station_id": "HKG_W_CTR"
+            "station_id": "VHHK_W_CTR"
           },
           {
             "label": [
               "HKG",
               "C CTR"
             ],
-            "station_id": "HKG_C_CTR"
+            "station_id": "VHHK_C_CTR"
           },
           {
             "label": [
               "HKG",
               "D CTR"
             ],
-            "station_id": "HKG_D_CTR"
+            "station_id": "VHHK_D_CTR"
           },
           {
             "label": [
               "HKG",
               "V CTR"
             ],
-            "station_id": "HKG_V_CTR"
-          },
-          {
-            "label": [
-              ""
-            ]
-          },
-          {
-            "label": [
-              ""
-            ]
-          },
-          {
-            "label": [
-              ""
-            ]
-          },
-          {
-            "label": [
-              ""
-            ]
-          },
-          {
-            "label": [
-              "WSJC",
-              "5 CTR"
-            ],
-            "station_id": "WSJC_5_CTR"
+            "station_id": "VHHK_V_CTR"
           },
           {
             "label": [
@@ -746,13 +713,6 @@
           },
           {
             "label": [
-              "WSJC",
-              "CTR"
-            ],
-            "station_id": "WSJC_CTR"
-          },
-          {
-            "label": [
               ""
             ]
           },
@@ -773,31 +733,23 @@
           },
           {
             "label": [
-              "VVHM",
-              "5 CTR"
-            ],
-            "station_id": "VVHM_5_CTR"
+              ""
+            ]
           },
           {
             "label": [
-              "VVHM",
-              "A CTR"
-            ],
-            "station_id": "VVHM_A_CTR"
+              ""
+            ]
           },
           {
             "label": [
-              "VVHM",
-              "CTR"
-            ],
-            "station_id": "VVHM_CTR"
+              ""
+            ]
           },
           {
             "label": [
-              "VCL",
-              "CTR"
-            ],
-            "station_id": "VCL_CTR"
+              ""
+            ]
           },
           {
             "label": [
