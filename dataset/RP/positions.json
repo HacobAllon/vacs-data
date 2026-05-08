@@ -2,891 +2,693 @@
   "positions": [
     {
       "id": "MNL_2_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "124.950",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_CE_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "128.750",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_CN_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "120.500",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_CS_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "125.700",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "119.300",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_CW_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "132.700",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_C_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "132.075",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_N1_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "129.000",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_NE_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "132.500",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_NW_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "128.700",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_N_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "126.575",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_S1_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "131.500",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_SE_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "125.750",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_SW_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "124.900",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_S_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "133.500",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_W_CTR",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "118.900",
       "facility_type": "CTR",
       "profile_id": "RPHI"
     },
     {
       "id": "MNL_FMP",
-      "prefixes": [
-        "MNL"
-      ],
+      "prefixes": ["MNL"],
       "frequency": "120.630",
       "facility_type": "FMP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLB_DEL",
-      "prefixes": [
-        "RPLB"
-      ],
+      "prefixes": ["RPLB"],
       "frequency": "121.300",
       "facility_type": "DEL",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLB_GND",
-      "prefixes": [
-        "RPLB"
-      ],
+      "prefixes": ["RPLB"],
       "frequency": "121.800",
       "facility_type": "GND",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLB_TWR",
-      "prefixes": [
-        "RPLB"
-      ],
+      "prefixes": ["RPLB"],
       "frequency": "118.200",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLC_APP",
-      "prefixes": [
-        "RPLC"
-      ],
+      "prefixes": ["RPLC"],
       "frequency": "119.200",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLC_DEL",
-      "prefixes": [
-        "RPLC"
-      ],
+      "prefixes": ["RPLC"],
       "frequency": "125.200",
       "facility_type": "DEL",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLC_GND",
-      "prefixes": [
-        "RPLC"
-      ],
+      "prefixes": ["RPLC"],
       "frequency": "124.300",
       "facility_type": "GND",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLC_RMP",
-      "prefixes": [
-        "RPLC"
-      ],
+      "prefixes": ["RPLC"],
       "frequency": "121.650",
       "facility_type": "RMP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLC_TWR",
-      "prefixes": [
-        "RPLC"
-      ],
+      "prefixes": ["RPLC"],
       "frequency": "118.700",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLI_APP",
-      "prefixes": [
-        "RPLI"
-      ],
+      "prefixes": ["RPLI"],
       "frequency": "122.300",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLI_TWR",
-      "prefixes": [
-        "RPLI"
-      ],
+      "prefixes": ["RPLI"],
       "frequency": "118.100",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLK_APP",
-      "prefixes": [
-        "RPLK"
-      ],
+      "prefixes": ["RPLK"],
       "frequency": "120.200",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLK_TWR",
-      "prefixes": [
-        "RPLK"
-      ],
+      "prefixes": ["RPLK"],
       "frequency": "118.700",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_1_RMP",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "121.700",
       "facility_type": "RMP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_2_RMP",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "128.800",
       "facility_type": "RMP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_3_RMP",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "121.350",
       "facility_type": "RMP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_APP",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "124.800",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_DEL",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "125.100",
       "facility_type": "DEL",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_G_RMP",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "123.250",
       "facility_type": "RMP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_F_APP",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "124.400",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_GND",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "121.800",
       "facility_type": "GND",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_N_APP",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "119.900",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_P_GND",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "122.000",
       "facility_type": "GND",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_S_APP",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "127.700",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLL_TWR",
-      "prefixes": [
-        "RPLL"
-      ],
+      "prefixes": ["RPLL"],
       "frequency": "118.100",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLS_TWR",
-      "prefixes": [
-        "RPLS"
-      ],
+      "prefixes": ["RPLS"],
       "frequency": "126.200",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPLV_TWR",
-      "prefixes": [
-        "RPLV"
-      ],
+      "prefixes": ["RPLV"],
       "frequency": "126.250",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMC_TWR",
-      "prefixes": [
-        "RPMC"
-      ],
+      "prefixes": ["RPMC"],
       "frequency": "118.700",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMD_APP",
-      "prefixes": [
-        "RPMD"
-      ],
+      "prefixes": ["RPMD"],
       "frequency": "122.400",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMD_DEL",
-      "prefixes": [
-        "RPMD"
-      ],
+      "prefixes": ["RPMD"],
       "frequency": "120.700",
       "facility_type": "DEL",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMD_RDO",
-      "prefixes": [
-        "RPMD"
-      ],
+      "prefixes": ["RPMD"],
       "frequency": "124.000",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMD_TWR",
-      "prefixes": [
-        "RPMD"
-      ],
+      "prefixes": ["RPMD"],
       "frequency": "118.100",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPME_APP",
-      "prefixes": [
-        "RPME"
-      ],
+      "prefixes": ["RPME"],
       "frequency": "121.300",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPME_TWR",
-      "prefixes": [
-        "RPME"
-      ],
+      "prefixes": ["RPME"],
       "frequency": "123.200",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMG_RDO",
-      "prefixes": [
-        "RPMG"
-      ],
+      "prefixes": ["RPMG"],
       "frequency": "122.100",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMJ_RDO",
-      "prefixes": [
-        "RPMJ"
-      ],
+      "prefixes": ["RPMJ"],
       "frequency": "122.200",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMO_RDO",
-      "prefixes": [
-        "RPMO"
-      ],
+      "prefixes": ["RPMO"],
       "frequency": "124.100",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMP_RDO",
-      "prefixes": [
-        "RPMP"
-      ],
+      "prefixes": ["RPMP"],
       "frequency": "122.000",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMR_APP",
-      "prefixes": [
-        "RPMR"
-      ],
+      "prefixes": ["RPMR"],
       "frequency": "119.100",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMR_TWR",
-      "prefixes": [
-        "RPMR"
-      ],
+      "prefixes": ["RPMR"],
       "frequency": "118.400",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMS_RDO",
-      "prefixes": [
-        "RPMS"
-      ],
+      "prefixes": ["RPMS"],
       "frequency": "122.000",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMY_APP",
-      "prefixes": [
-        "RPMY"
-      ],
+      "prefixes": ["RPMY"],
       "frequency": "125.500",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMY_TWR",
-      "prefixes": [
-        "RPMY"
-      ],
+      "prefixes": ["RPMY"],
       "frequency": "122.600",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMZ_APP",
-      "prefixes": [
-        "RPMZ"
-      ],
+      "prefixes": ["RPMZ"],
       "frequency": "122.700",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPMZ_TWR",
-      "prefixes": [
-        "RPMZ"
-      ],
+      "prefixes": ["RPMZ"],
       "frequency": "123.500",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPNS_TWR",
-      "prefixes": [
-        "RPNS"
-      ],
+      "prefixes": ["RPNS"],
       "frequency": "127.100",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPSP_GND",
-      "prefixes": [
-        "RPSP"
-      ],
+      "prefixes": ["RPSP"],
       "frequency": "121.600",
       "facility_type": "GND",
       "profile_id": "RPHI"
     },
     {
       "id": "RPSP_TWR",
-      "prefixes": [
-        "RPSP"
-      ],
+      "prefixes": ["RPSP"],
       "frequency": "124.500",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPSV_RDO",
-      "prefixes": [
-        "RPSV"
-      ],
+      "prefixes": ["RPSV"],
       "frequency": "123.300",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUB_TWR",
-      "prefixes": [
-        "RPUB"
-      ],
+      "prefixes": ["RPUB"],
       "frequency": "123.500",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUH_RDO",
-      "prefixes": [
-        "RPUH"
-      ],
+      "prefixes": ["RPUH"],
       "frequency": "118.300",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUN_RDO",
-      "prefixes": [
-        "RPUN"
-      ],
+      "prefixes": ["RPUN"],
       "frequency": "122.100",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUN_TWR",
-      "prefixes": [
-        "RPUN"
-      ],
+      "prefixes": ["RPUN"],
       "frequency": "122.100",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUO_RDO",
-      "prefixes": [
-        "RPUO"
-      ],
+      "prefixes": ["RPUO"],
       "frequency": "122.000",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUQ_RDO",
-      "prefixes": [
-        "RPUQ"
-      ],
+      "prefixes": ["RPUQ"],
       "frequency": "120.100",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUS_TWR",
-      "prefixes": [
-        "RPUS"
-      ],
+      "prefixes": ["RPUS"],
       "frequency": "122.100",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUT_RDO",
-      "prefixes": [
-        "RPUT"
-      ],
+      "prefixes": ["RPUT"],
       "frequency": "119.800",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUV_RDO",
-      "prefixes": [
-        "RPUV"
-      ],
+      "prefixes": ["RPUV"],
       "frequency": "128.500",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUW_RDO",
-      "prefixes": [
-        "RPUW"
-      ],
+      "prefixes": ["RPUW"],
       "frequency": "122.000",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUX_TWR",
-      "prefixes": [
-        "RPUX"
-      ],
+      "prefixes": ["RPUX"],
       "frequency": "122.400",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPUY_RDO",
-      "prefixes": [
-        "RPUY"
-      ],
+      "prefixes": ["RPUY"],
       "frequency": "122.700",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVA_APP",
-      "prefixes": [
-        "RPVA"
-      ],
+      "prefixes": ["RPVA"],
       "frequency": "120.800",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVA_TWR",
-      "prefixes": [
-        "RPVA"
-      ],
+      "prefixes": ["RPVA"],
       "frequency": "124.300",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVB_APP",
-      "prefixes": [
-        "RPVB"
-      ],
+      "prefixes": ["RPVB"],
       "frequency": "121.000",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVB_TWR",
-      "prefixes": [
-        "RPVB"
-      ],
+      "prefixes": ["RPVB"],
       "frequency": "118.800",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVC_RDO",
-      "prefixes": [
-        "RPVC"
-      ],
+      "prefixes": ["RPVC"],
       "frequency": "122.100",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVD_TWR",
-      "prefixes": [
-        "RPVD"
-      ],
+      "prefixes": ["RPVD"],
       "frequency": "129.700",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVE_TWR",
-      "prefixes": [
-        "RPVE"
-      ],
+      "prefixes": ["RPVE"],
       "frequency": "118.600",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVF_RDO",
-      "prefixes": [
-        "RPVF"
-      ],
+      "prefixes": ["RPVF"],
       "frequency": "122.700",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVI_GND",
-      "prefixes": [
-        "RPVI"
-      ],
+      "prefixes": ["RPVI"],
       "frequency": "121.800",
       "facility_type": "GND",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVI_TWR",
-      "prefixes": [
-        "RPVI"
-      ],
+      "prefixes": ["RPVI"],
       "frequency": "123.400",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVK_APP",
-      "prefixes": [
-        "RPVK"
-      ],
+      "prefixes": ["RPVK"],
       "frequency": "120.400",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVK_TWR",
-      "prefixes": [
-        "RPVK"
-      ],
+      "prefixes": ["RPVK"],
       "frequency": "124.200",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVM_APP",
-      "prefixes": [
-        "RPVM"
-      ],
+      "prefixes": ["RPVM"],
       "frequency": "124.700",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVM_DEL",
-      "prefixes": [
-        "RPVM"
-      ],
+      "prefixes": ["RPVM"],
       "frequency": "125.100",
       "facility_type": "DEL",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVM_GND",
-      "prefixes": [
-        "RPVM"
-      ],
+      "prefixes": ["RPVM"],
       "frequency": "121.800",
       "facility_type": "GND",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVM_S_APP",
-      "prefixes": [
-        "RPVM"
-      ],
+      "prefixes": ["RPVM"],
       "frequency": "121.200",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVM_TWR",
-      "prefixes": [
-        "RPVM"
-      ],
+      "prefixes": ["RPVM"],
       "frequency": "118.100",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVP_APP",
-      "prefixes": [
-        "RPVP"
-      ],
+      "prefixes": ["RPVP"],
       "frequency": "122.000",
       "facility_type": "APP",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVP_TWR",
-      "prefixes": [
-        "RPVP"
-      ],
+      "prefixes": ["RPVP"],
       "frequency": "118.100",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVR_TWR",
-      "prefixes": [
-        "RPVR"
-      ],
+      "prefixes": ["RPVR"],
       "frequency": "118.500",
       "facility_type": "TWR",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVU_RDO",
-      "prefixes": [
-        "RPVU"
-      ],
+      "prefixes": ["RPVU"],
       "frequency": "122.300",
       "facility_type": "RDO",
       "profile_id": "RPHI"
     },
     {
       "id": "RPVV_RDO",
-      "prefixes": [
-        "RPVV"
-      ],
+      "prefixes": ["RPVV"],
       "frequency": "123.200",
       "facility_type": "RDO",
       "profile_id": "RPHI"
