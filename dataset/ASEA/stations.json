@@ -1,0 +1,542 @@
+{
+  "stations": [
+    {
+      "id": "ASEA_FSS",
+      "controlled_by": [
+        "ASEA_FSS"
+      ]
+    },
+    {
+      "id": "ASEA_N_FSS",
+      "controlled_by": [
+        "ASEA_N_FSS",
+        "ASEA_FSS"
+      ]
+    },
+    {
+      "id": "ASEA_S_FSS",
+      "controlled_by": [
+        "ASEA_S_FSS",
+        "ASEA_FSS"
+      ]
+    },
+    {
+      "id": "ASEA_E_FSS",
+      "controlled_by": [
+        "ASEA_E_FSS",
+        "ASEA_FSS"
+      ]
+    },
+    {
+      "id": "ASEA_W_FSS",
+      "controlled_by": [
+        "ASEA_W_FSS",
+        "ASEA_FSS"
+      ]
+    },
+    {
+      "id": "MNL_CTR",
+      "controlled_by": [
+        "MNL_CTR"
+      ]
+    },
+    {
+      "id": "MNL_C_CTR",
+      "controlled_by": [
+        "MNL_C_CTR"
+      ]
+    },
+    {
+      "id": "MNL_N_CTR",
+      "controlled_by": [
+        "MNL_N_CTR"
+      ]
+    },
+    {
+      "id": "MNL_S_CTR",
+      "controlled_by": [
+        "MNL_S_CTR"
+      ]
+    },
+    {
+      "id": "HKG_W_CTR",
+      "controlled_by": [
+        "HKG_W_CTR"
+      ]
+    },
+    {
+      "id": "HKG_C_CTR",
+      "controlled_by": [
+        "HKG_C_CTR"
+      ]
+    },
+    {
+      "id": "HKG_E_CTR",
+      "controlled_by": [
+        "HKG_E_CTR"
+      ]
+    },
+    {
+      "id": "HKG_S_CTR",
+      "controlled_by": [
+        "HKG_S_CTR"
+      ]
+    },
+    {
+      "id": "HKG_U_CTR",
+      "controlled_by": [
+        "HKG_U_CTR"
+      ]
+    },
+    {
+      "id": "HKG_V_CTR",
+      "controlled_by": [
+        "HKG_V_CTR"
+      ]
+    },
+    {
+      "id": "HKG_D_CTR",
+      "controlled_by": [
+        "HKG_D_CTR"
+      ]
+    },
+    {
+      "id": "HKG_K_CTR",
+      "controlled_by": [
+        "HKG_K_CTR"
+      ]
+    },
+    {
+      "id": "WAAF_CTR",
+      "controlled_by": [
+        "WAAF_CTR"
+      ]
+    },
+    {
+      "id": "WAAF_BN_CTR",
+      "controlled_by": [
+        "WAAF_BN_CTR"
+      ]
+    },
+    {
+      "id": "WAAF_PN_CTR",
+      "controlled_by": [
+        "WAAF_PN_CTR"
+      ]
+    },
+    {
+      "id": "WAAF_BI_CTR",
+      "controlled_by": [
+        "WAAF_BI_CTR"
+      ]
+    },
+    {
+      "id": "WAAF_SY_CTR",
+      "controlled_by": [
+        "WAAF_SY_CTR"
+      ]
+    },
+    {
+      "id": "WAAF_MS_CTR",
+      "controlled_by": [
+        "WAAF_MS_CTR"
+      ]
+    },
+    {
+      "id": "WAAF_NA_CTR",
+      "controlled_by": [
+        "WAAF_NA_CTR"
+      ]
+    },
+    {
+      "id": "WAAF_MO_CTR",
+      "controlled_by": [
+        "WAAF_MO_CTR"
+      ]
+    },
+    {
+      "id": "WAAF_AN_CTR",
+      "controlled_by": [
+        "WAAF_AN_CTR"
+      ]
+    },
+    {
+      "id": "WAAF_PA_CTR",
+      "controlled_by": [
+        "WAAF_PA_CTR"
+      ]
+    },
+    {
+      "id": "WBFC_CTR",
+      "controlled_by": [
+        "WBFC_CTR"
+      ]
+    },
+    {
+      "id": "WBFC_2_CTR",
+      "controlled_by": [
+        "WBFC_2_CTR"
+      ]
+    },
+    {
+      "id": "WBFC_3_CTR",
+      "controlled_by": [
+        "WBFC_3_CTR"
+      ]
+    },
+    {
+      "id": "WBGG_CTR",
+      "controlled_by": [
+        "WBGG_CTR"
+      ]
+    },
+    {
+      "id": "WMFC_CTR",
+      "controlled_by": [
+        "WMFC_CTR"
+      ]
+    },
+    {
+      "id": "WMFC_N_CTR",
+      "controlled_by": [
+        "WMFC_N_CTR"
+      ]
+    },
+    {
+      "id": "WMFC_E_CTR",
+      "controlled_by": [
+        "WMFC_E_CTR"
+      ]
+    },
+    {
+      "id": "WMFC_S_CTR",
+      "controlled_by": [
+        "WMFC_S_CTR"
+      ]
+    },
+    {
+      "id": "WMFC_O_CTR",
+      "controlled_by": [
+        "WMFC_O_CTR"
+      ]
+    },
+    {
+      "id": "WMFC_1_CTR",
+      "controlled_by": [
+        "WMFC_1_CTR"
+      ]
+    },
+    {
+      "id": "WMFC_2_CTR",
+      "controlled_by": [
+        "WMFC_2_CTR"
+      ]
+    },
+    {
+      "id": "WMFC_3_CTR",
+      "controlled_by": [
+        "WMFC_3_CTR"
+      ]
+    },
+    {
+      "id": "WMFC_4_CTR",
+      "controlled_by": [
+        "WMFC_4_CTR"
+      ]
+    },
+    {
+      "id": "WMFC_5_CTR",
+      "controlled_by": [
+        "WMFC_5_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_CTR",
+      "controlled_by": [
+        "WIIF_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_MN_CTR",
+      "controlled_by": [
+        "WIIF_MN_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_BC_CTR",
+      "controlled_by": [
+        "WIIF_BC_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_IS_CTR",
+      "controlled_by": [
+        "WIIF_IS_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_JT_CTR",
+      "controlled_by": [
+        "WIIF_JT_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_PU_CTR",
+      "controlled_by": [
+        "WIIF_PU_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_PB_CTR",
+      "controlled_by": [
+        "WIIF_PB_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_PP_CTR",
+      "controlled_by": [
+        "WIIF_PP_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_SG_CTR",
+      "controlled_by": [
+        "WIIF_SG_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_BD_CTR",
+      "controlled_by": [
+        "WIIF_BD_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_JG_CTR",
+      "controlled_by": [
+        "WIIF_JG_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_PK_CTR",
+      "controlled_by": [
+        "WIIF_PK_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_NA_CTR",
+      "controlled_by": [
+        "WIIF_NA_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_TG_CTR",
+      "controlled_by": [
+        "WIIF_TG_CTR"
+      ]
+    },
+    {
+      "id": "WIIF_TN_CTR",
+      "controlled_by": [
+        "WIIF_TN_CTR"
+      ]
+    },
+    {
+      "id": "WSJC_CTR",
+      "controlled_by": [
+        "WSJC_CTR"
+      ]
+    },
+    {
+      "id": "WSJC_1_CTR",
+      "controlled_by": [
+        "WSJC_1_CTR"
+      ]
+    },
+    {
+      "id": "WSJC_2_CTR",
+      "controlled_by": [
+        "WSJC_2_CTR"
+      ]
+    },
+    {
+      "id": "WSJC_3_CTR",
+      "controlled_by": [
+        "WSJC_3_CTR"
+      ]
+    },
+    {
+      "id": "WSJC_4_CTR",
+      "controlled_by": [
+        "WSJC_4_CTR"
+      ]
+    },
+    {
+      "id": "WSJC_5_CTR",
+      "controlled_by": [
+        "WSJC_5_CTR"
+      ]
+    },
+    {
+      "id": "WSJC_6_CTR",
+      "controlled_by": [
+        "WSJC_6_CTR"
+      ]
+    },
+    {
+      "id": "WSJC_8_CTR",
+      "controlled_by": [
+        "WSJC_8_CTR"
+      ]
+    },
+    {
+      "id": "VYYF_CTR",
+      "controlled_by": [
+        "VYYF_CTR"
+      ]
+    },
+    {
+      "id": "VYYF_2_CTR",
+      "controlled_by": [
+        "VYYF_2_CTR"
+      ]
+    },
+    {
+      "id": "VYYF_3_CTR",
+      "controlled_by": [
+        "VYYF_3_CTR"
+      ]
+    },
+    {
+      "id": "VYYF_4_CTR",
+      "controlled_by": [
+        "VYYF_4_CTR"
+      ]
+    },
+    {
+      "id": "VTBB_CTR",
+      "controlled_by": [
+        "VTBB_CTR"
+      ]
+    },
+    {
+      "id": "VCL_CTR",
+      "controlled_by": [
+        "VCL_CTR"
+      ]
+    },
+    {
+      "id": "VVHM_CTR",
+      "controlled_by": [
+        "VVHM_CTR"
+      ]
+    },
+    {
+      "id": "VVHM_A_CTR",
+      "controlled_by": [
+        "VVHM_A_CTR"
+      ]
+    },
+    {
+      "id": "VVHM_B_CTR",
+      "controlled_by": [
+        "VVHM_B_CTR"
+      ]
+    },
+    {
+      "id": "VVHM_1_CTR",
+      "controlled_by": [
+        "VVHM_1_CTR"
+      ]
+    },
+    {
+      "id": "VVHM_2_CTR",
+      "controlled_by": [
+        "VVHM_2_CTR"
+      ]
+    },
+    {
+      "id": "VVHM_3_CTR",
+      "controlled_by": [
+        "VVHM_3_CTR"
+      ]
+    },
+    {
+      "id": "VVHM_4_CTR",
+      "controlled_by": [
+        "VVHM_4_CTR"
+      ]
+    },
+    {
+      "id": "VVHM_5_CTR",
+      "controlled_by": [
+        "VVHM_5_CTR"
+      ]
+    },
+    {
+      "id": "VVHM_6_CTR",
+      "controlled_by": [
+        "VVHM_6_CTR"
+      ]
+    },
+    {
+      "id": "VVHM_7_CTR",
+      "controlled_by": [
+        "VVHM_7_CTR"
+      ]
+    },
+    {
+      "id": "VLVT_CTR",
+      "controlled_by": [
+        "VLVT_CTR"
+      ]
+    },
+    {
+      "id": "VLVT_1_CTR",
+      "controlled_by": [
+        "VLVT_1_CTR"
+      ]
+    },
+    {
+      "id": "VDPF_CTR",
+      "controlled_by": [
+        "VDPF_CTR"
+      ]
+    },
+    {
+      "id": "VDPF_2_CTR",
+      "controlled_by": [
+        "VDPF_2_CTR"
+      ]
+    },
+    {
+      "id": "VVHN_CTR",
+      "controlled_by": [
+        "VVHN_CTR"
+      ]
+    },
+    {
+      "id": "VVHN_1_CTR",
+      "controlled_by": [
+        "VVHN_1_CTR"
+      ]
+    },
+    {
+      "id": "VVHN_2_CTR",
+      "controlled_by": [
+        "VVHN_2_CTR"
+      ]
+    },
+    {
+      "id": "VVHN_3_CTR",
+      "controlled_by": [
+        "VVHN_3_CTR"
+      ]
+    },
+    {
+      "id": "VVHN_4_CTR",
+      "controlled_by": [
+        "VVHN_4_CTR"
+      ]
+    }
+  ]
+}
