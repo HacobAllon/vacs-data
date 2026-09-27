@@ -154,35 +154,35 @@
         "keys": [
           {
             "label": ["HKG", "W CTR"],
-            "station_id": "HKG_W_CTR"
+            "station_id": "VHHK_W_CTR"
           },
           {
             "label": ["HKG", "C CTR"],
-            "station_id": "HKG_C_CTR"
+            "station_id": "VHHK_C_CTR"
           },
           {
             "label": ["HKG", "E CTR"],
-            "station_id": "HKG_E_CTR"
+            "station_id": "VHHK_E_CTR"
           },
           {
             "label": ["HKG", "S CTR"],
-            "station_id": "HKG_S_CTR"
+            "station_id": "VHHK_S_CTR"
           },
           {
             "label": ["HKG", "U CTR"],
-            "station_id": "HKG_U_CTR"
+            "station_id": "VHHK_U_CTR"
           },
           {
             "label": ["HKG", "V CTR"],
-            "station_id": "HKG_V_CTR"
+            "station_id": "VHHK_V_CTR"
           },
           {
             "label": ["HKG", "D CTR"],
-            "station_id": "HKG_D_CTR"
+            "station_id": "VHHK_D_CTR"
           },
           {
             "label": ["HKG", "K CTR"],
-            "station_id": "HKG_K_CTR"
+            "station_id": "VHHK_K_CTR"
           },
           {
             "label": [""]
@@ -968,43 +968,43 @@
         "keys": [
           {
             "label": ["WAAF", "CTR"],
-            "station_id": "WAAF_CTR"
+            "station_id": ""
           },
           {
             "label": ["WAAF", "BN CTR"],
-            "station_id": "WAAF_BN_CTR"
+            "station_id": ""
           },
           {
             "label": ["WAAF", "PN CTR"],
-            "station_id": "WAAF_PN_CTR"
+            "station_id": ""
           },
           {
             "label": ["WAAF", "BI CTR"],
-            "station_id": "WAAF_BI_CTR"
+            "station_id": ""
           },
           {
             "label": ["WAAF", "SY CTR"],
-            "station_id": "WAAF_SY_CTR"
+            "station_id": ""
           },
           {
             "label": ["WAAF", "MS CTR"],
-            "station_id": "WAAF_MS_CTR"
+            "station_id": ""
           },
           {
             "label": ["WAAF", "NA CTR"],
-            "station_id": "WAAF_NA_CTR"
+            "station_id": ""
           },
           {
             "label": ["WAAF", "MO CTR"],
-            "station_id": "WAAF_MO_CTR"
+            "station_id": ""
           },
           {
             "label": ["WAAF", "AN CTR"],
-            "station_id": "WAAF_AN_CTR"
+            "station_id": ""
           },
           {
             "label": ["WAAF", "PA CTR"],
-            "station_id": "WAAF_PA_CTR"
+            "station_id": ""
           },
           {
             "label": [""]
